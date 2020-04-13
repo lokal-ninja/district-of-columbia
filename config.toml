@@ -1,7 +1,7 @@
 baseURL = "https://shoogle.us/district-of-columbia"
 languageCode = "en-US"
 title = "District of Columbia"
-theme = "ln-base-en"
+theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
