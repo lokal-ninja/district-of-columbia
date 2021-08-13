@@ -1,5 +1,5 @@
 ---
 title: "Dollar Star"
 url: /washington/dollar-star/
-shop: shop
+shop: variety store
 ---
