@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Fashion"
 url: /washington/elizabeth-fashion/
-shop: shop
+shop: clothes
 ---
