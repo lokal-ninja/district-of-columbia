@@ -1,5 +1,5 @@
 ---
 title: "New Creation Hair Salon"
 url: /washington/new-creation-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

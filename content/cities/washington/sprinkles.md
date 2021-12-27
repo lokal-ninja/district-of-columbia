@@ -1,5 +1,5 @@
 ---
 title: "Sprinkles"
 url: /washington/sprinkles/
-shop: bakery
+shop: Bäckerei
 ---

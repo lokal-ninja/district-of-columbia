@@ -1,5 +1,5 @@
 ---
 title: "FoBoGro"
 url: /washington/fobogro/
-shop: convenience
+shop: Lebensmittel
 ---

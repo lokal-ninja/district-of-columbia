@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Liquors"
 url: /washington/hamilton-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

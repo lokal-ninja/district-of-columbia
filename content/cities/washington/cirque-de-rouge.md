@@ -1,5 +1,5 @@
 ---
 title: "Cirque de Rouge"
 url: /washington/cirque-de-rouge/
-shop: tattoo
+shop: Tattoo
 ---

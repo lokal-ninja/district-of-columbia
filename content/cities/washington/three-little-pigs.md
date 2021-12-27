@@ -1,5 +1,5 @@
 ---
 title: "Three Little Pigs"
 url: /washington/three-little-pigs/
-shop: butcher
+shop: Metzgerei
 ---

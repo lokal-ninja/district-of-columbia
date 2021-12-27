@@ -1,5 +1,5 @@
 ---
 title: "Rex Cleaners"
 url: /washington/rex-cleaners-2/
-shop: laundry
+shop: Wäscherei
 ---

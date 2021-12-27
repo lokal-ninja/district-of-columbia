@@ -1,5 +1,5 @@
 ---
 title: "Shoe City"
 url: /washington/shoe-city/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Apron"
 url: /washington/red-apron/
-shop: butcher
+shop: Metzgerei
 ---

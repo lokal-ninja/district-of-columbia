@@ -1,5 +1,5 @@
 ---
 title: "Parachute"
 url: /washington/parachute/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foxtrot"
 url: /washington/foxtrot/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pleasant Plains Workshop"
 url: /washington/pleasant-plains-workshop/
-shop: art
+shop: Kunst
 ---

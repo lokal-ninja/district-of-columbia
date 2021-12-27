@@ -1,5 +1,5 @@
 ---
 title: "King's Nails"
 url: /washington/kings-nails/
-shop: beauty
+shop: Kosmetik
 ---

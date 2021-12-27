@@ -1,5 +1,5 @@
 ---
 title: "Nails Waxing Design"
 url: /washington/nails-waxing-design/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan American Laundry"
 url: /washington/pan-american-laundry/
-shop: laundry
+shop: Wäscherei
 ---
