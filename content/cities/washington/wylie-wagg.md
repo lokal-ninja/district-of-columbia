@@ -1,5 +1,5 @@
 ---
 title: "Wylie Wagg"
 url: /washington/wylie-wagg/
-shop: Tiere
+shop: pet
 ---

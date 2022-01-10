@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /washington/bubbles/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Capo Deli"
 url: /washington/capo-deli/
-shop: Feinkost
+shop: deli
 ---

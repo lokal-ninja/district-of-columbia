@@ -1,5 +1,5 @@
 ---
 title: "Allan Woods Flowers"
 url: /washington/allan-woods-flowers/
-shop: Blumen
+shop: florist
 ---

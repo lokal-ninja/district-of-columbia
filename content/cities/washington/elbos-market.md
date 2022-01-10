@@ -1,5 +1,5 @@
 ---
 title: "Elbo's Market"
 url: /washington/elbos-market/
-shop: Lebensmittel
+shop: convenience
 ---

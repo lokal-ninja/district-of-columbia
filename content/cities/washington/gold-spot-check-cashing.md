@@ -1,5 +1,5 @@
 ---
 title: "Gold Spot Check Cashing"
 url: /washington/gold-spot-check-cashing/
-shop: Handy
+shop: mobile phone
 ---

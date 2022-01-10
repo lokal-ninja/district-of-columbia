@@ -1,5 +1,5 @@
 ---
 title: "Sorrelina"
 url: /washington/sorrelina/
-shop: Feinkost
+shop: deli
 ---

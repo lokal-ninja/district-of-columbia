@@ -1,5 +1,5 @@
 ---
 title: "Catrachito's Deli"
 url: /washington/catrachitos-deli/
-shop: Feinkost
+shop: deli
 ---

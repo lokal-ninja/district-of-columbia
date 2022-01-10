@@ -1,5 +1,5 @@
 ---
 title: "Spring Valley Exxon"
 url: /washington/spring-valley-exxon/
-shop: Autowerkstatt
+shop: car repair
 ---

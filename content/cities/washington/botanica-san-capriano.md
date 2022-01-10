@@ -1,5 +1,5 @@
 ---
 title: "Botanica San Capriano"
 url: /washington/botanica-san-capriano/
-shop: Kräuter
+shop: herbalist
 ---

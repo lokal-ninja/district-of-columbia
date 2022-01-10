@@ -1,5 +1,5 @@
 ---
 title: "Diesel"
 url: /washington/diesel/
-shop: Kleidung
+shop: clothes
 ---

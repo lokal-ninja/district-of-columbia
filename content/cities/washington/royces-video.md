@@ -1,5 +1,5 @@
 ---
 title: "Royce's Video"
 url: /washington/royces-video/
-shop: Videothek
+shop: video
 ---
