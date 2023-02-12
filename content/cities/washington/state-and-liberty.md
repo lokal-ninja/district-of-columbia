@@ -1,5 +1,5 @@
 ---
-title: "State and Liberty"
+title: "State & Liberty"
 url: /washington/state-and-liberty/
 shop: clothes
 ---
