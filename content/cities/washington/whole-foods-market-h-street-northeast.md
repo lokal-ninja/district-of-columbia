@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /washington/whole-foods-market/
+url: /washington/whole-foods-market-h-street-northeast/
 shop: supermarket
 ---

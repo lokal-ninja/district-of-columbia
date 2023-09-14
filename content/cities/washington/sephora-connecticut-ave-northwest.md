@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /washington/sephora/
+url: /washington/sephora-connecticut-ave-northwest/
 shop: beauty
 ---

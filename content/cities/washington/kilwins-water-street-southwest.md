@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
-url: /washington/kilwins/
+url: /washington/kilwins-water-street-southwest/
 shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /washington/giant/
+url: /washington/giant-wisconsin-avenue-northwest/
 shop: supermarket
 ---

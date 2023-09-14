@@ -1,5 +1,5 @@
 ---
 title: "FOXTROT"
-url: /washington/foxtrot/
+url: /washington/foxtrot-connecticut-avenue-northwest/
 shop: alcohol
 ---

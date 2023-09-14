@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /washington/sephora/
+url: /washington/sephora-14th-street-northwest/
 shop: beauty
 ---

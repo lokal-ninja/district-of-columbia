@@ -1,5 +1,5 @@
 ---
 title: "Foxtrot"
-url: /washington/foxtrot/
+url: /washington/foxtrot-17th-street-northwest/
 shop: shop
 ---
