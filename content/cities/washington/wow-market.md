@@ -1,5 +1,5 @@
 ---
-title: "Wow market"
+title: "Wow Market"
 url: /washington/wow-market/
-shop: supermarket
+shop: convenience
 ---
