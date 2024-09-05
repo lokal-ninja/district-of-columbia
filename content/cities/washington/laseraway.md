@@ -1,5 +1,5 @@
 ---
 title: "LaserAway"
 url: /washington/laseraway/
-shop: beauty
+shop: Kosmetik
 ---

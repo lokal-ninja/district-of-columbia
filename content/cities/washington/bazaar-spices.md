@@ -1,5 +1,5 @@
 ---
 title: "Bazaar Spices"
 url: /washington/bazaar-spices/
-shop: spices
+shop: Gewürze
 ---

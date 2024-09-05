@@ -1,5 +1,5 @@
 ---
 title: "Saint Martin's Salon"
 url: /washington/saint-martins-salon/
-shop: hairdresser
+shop: Friseur
 ---

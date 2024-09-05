@@ -1,5 +1,5 @@
 ---
 title: "Sepia Salon"
 url: /washington/sepia-salon/
-shop: hairdresser
+shop: Friseur
 ---

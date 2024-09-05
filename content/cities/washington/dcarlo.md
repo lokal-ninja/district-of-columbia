@@ -1,5 +1,5 @@
 ---
 title: "D'carlo"
 url: /washington/dcarlo/
-shop: furniture
+shop: Möbel
 ---

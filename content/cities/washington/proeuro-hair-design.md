@@ -1,5 +1,5 @@
 ---
 title: "ProEuro Hair Design"
 url: /washington/proeuro-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

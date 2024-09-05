@@ -1,5 +1,5 @@
 ---
 title: "DC Variedades"
 url: /washington/dc-variedades/
-shop: clothes
+shop: Kleidung
 ---

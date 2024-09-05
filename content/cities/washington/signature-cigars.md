@@ -1,5 +1,5 @@
 ---
 title: "Signature Cigars"
 url: /washington/signature-cigars/
-shop: tobacco
+shop: Tabak
 ---

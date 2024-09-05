@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /washington/sephora/
-shop: beauty
+shop: Kosmetik
 ---

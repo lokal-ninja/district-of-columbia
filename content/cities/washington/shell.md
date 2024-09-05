@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /washington/shell/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Progresso Market (International)"
 url: /washington/progresso-market-international/
-shop: supermarket
+shop: Supermarkt
 ---

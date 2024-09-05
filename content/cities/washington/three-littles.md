@@ -1,5 +1,5 @@
 ---
 title: "Three Littles"
 url: /washington/three-littles/
-shop: baby goods
+shop: Babysachen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gingko Gardens"
 url: /washington/gingko-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

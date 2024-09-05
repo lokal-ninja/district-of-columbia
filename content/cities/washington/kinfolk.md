@@ -1,5 +1,5 @@
 ---
 title: "Kinfolk"
 url: /washington/kinfolk/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevy Chase Pavilion"
 url: /washington/chevy-chase-pavilion/
-shop: mall
+shop: Einkaufszentrum
 ---

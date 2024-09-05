@@ -1,5 +1,5 @@
 ---
 title: "ABG Mart"
 url: /washington/abg-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Touchstone Gallery"
 url: /washington/touchstone-gallery/
-shop: art
+shop: Kunst
 ---

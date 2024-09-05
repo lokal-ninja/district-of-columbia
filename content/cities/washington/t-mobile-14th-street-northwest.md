@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /washington/t-mobile-14th-street-northwest/
-shop: mobile phone
+shop: Handy
 ---

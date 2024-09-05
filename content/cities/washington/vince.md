@@ -1,5 +1,5 @@
 ---
 title: "VINCE."
 url: /washington/vince/
-shop: clothes
+shop: Kleidung
 ---
