@@ -1,5 +1,5 @@
 ---
 title: "Diptyque'"
 url: /washington/diptyque/
-shop: Parfümerie
+shop: perfumery
 ---

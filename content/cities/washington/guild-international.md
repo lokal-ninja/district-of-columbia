@@ -1,5 +1,5 @@
 ---
 title: "Guild International"
 url: /washington/guild-international/
-shop: Kleidung
+shop: clothes
 ---

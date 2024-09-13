@@ -1,5 +1,5 @@
 ---
 title: "Sneaker Headz"
 url: /washington/sneaker-headz/
-shop: Hanf
+shop: cannabis
 ---

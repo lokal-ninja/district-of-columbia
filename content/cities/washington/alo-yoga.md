@@ -1,5 +1,5 @@
 ---
 title: "Alo Yoga"
 url: /washington/alo-yoga/
-shop: Kleidung
+shop: clothes
 ---

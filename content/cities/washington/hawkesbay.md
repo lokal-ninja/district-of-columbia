@@ -1,5 +1,5 @@
 ---
 title: "Hawkesbay"
 url: /washington/hawkesbay/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frame of Mine"
 url: /washington/frame-of-mine/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /washington/marshalls-market-street-northeast/
-shop: Warenhaus
+shop: department store
 ---

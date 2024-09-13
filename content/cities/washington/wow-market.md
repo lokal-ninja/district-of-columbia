@@ -1,5 +1,5 @@
 ---
 title: "Wow Market"
 url: /washington/wow-market/
-shop: Lebensmittel
+shop: convenience
 ---

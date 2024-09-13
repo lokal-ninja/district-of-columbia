@@ -1,5 +1,5 @@
 ---
 title: "Taste Art Gallery"
 url: /washington/taste-art-gallery/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conte's Bike Shop"
 url: /washington/contes-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

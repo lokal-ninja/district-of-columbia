@@ -1,5 +1,5 @@
 ---
 title: "Yes! Organic Market"
 url: /washington/yes-organic-market/
-shop: Supermarkt
+shop: supermarket
 ---

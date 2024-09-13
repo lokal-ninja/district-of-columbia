@@ -1,5 +1,5 @@
 ---
 title: "Modern Nail Bar"
 url: /washington/modern-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

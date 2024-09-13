@@ -1,5 +1,5 @@
 ---
 title: "York Flowers"
 url: /washington/york-flowers/
-shop: Blumen
+shop: florist
 ---

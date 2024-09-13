@@ -1,5 +1,5 @@
 ---
 title: "Brightwood Mart"
 url: /washington/brightwood-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Levain Bakery"
 url: /washington/levain-bakery/
-shop: Bäckerei
+shop: bakery
 ---

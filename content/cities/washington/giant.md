@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /washington/giant/
-shop: Supermarkt
+shop: supermarket
 ---

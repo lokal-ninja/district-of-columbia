@@ -1,5 +1,5 @@
 ---
 title: "Volanni"
 url: /washington/volanni/
-shop: Blumen
+shop: florist
 ---

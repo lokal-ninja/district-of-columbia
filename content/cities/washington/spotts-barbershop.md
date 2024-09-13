@@ -1,5 +1,5 @@
 ---
 title: "Spotts Barbershop"
 url: /washington/spotts-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

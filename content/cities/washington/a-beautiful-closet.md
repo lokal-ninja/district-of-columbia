@@ -1,5 +1,5 @@
 ---
 title: "A Beautiful Closet"
 url: /washington/a-beautiful-closet/
-shop: Kleidung
+shop: clothes
 ---

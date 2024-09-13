@@ -1,5 +1,5 @@
 ---
 title: "Lewis Barbershop"
 url: /washington/lewis-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

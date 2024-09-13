@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /washington/7-eleven-12th-street-northeast/
-shop: Lebensmittel
+shop: convenience
 ---

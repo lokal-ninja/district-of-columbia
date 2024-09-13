@@ -1,5 +1,5 @@
 ---
 title: "Bowen Discount"
 url: /washington/bowen-discount/
-shop: Lebensmittel
+shop: convenience
 ---

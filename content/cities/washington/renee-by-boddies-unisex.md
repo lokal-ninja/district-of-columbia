@@ -1,5 +1,5 @@
 ---
 title: "Renee By Boddie's Unisex"
 url: /washington/renee-by-boddies-unisex/
-shop: Friseur
+shop: hairdresser
 ---

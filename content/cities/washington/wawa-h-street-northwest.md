@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /washington/wawa-h-street-northwest/
-shop: Lebensmittel
+shop: convenience
 ---

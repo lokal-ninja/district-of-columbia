@@ -1,5 +1,5 @@
 ---
 title: "Sheridan International Market"
 url: /washington/sheridan-international-market/
-shop: Lebensmittel
+shop: convenience
 ---

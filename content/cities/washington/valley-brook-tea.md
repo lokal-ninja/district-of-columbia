@@ -1,5 +1,5 @@
 ---
 title: "Valley Brook Tea"
 url: /washington/valley-brook-tea/
-shop: Tee
+shop: tea
 ---

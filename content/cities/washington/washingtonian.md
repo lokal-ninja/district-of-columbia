@@ -1,5 +1,5 @@
 ---
 title: "Washingtonian"
 url: /washington/washingtonian/
-shop: Lebensmittel
+shop: convenience
 ---

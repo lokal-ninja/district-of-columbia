@@ -1,5 +1,5 @@
 ---
 title: "Middle C"
 url: /washington/middle-c/
-shop: Musik
+shop: music
 ---

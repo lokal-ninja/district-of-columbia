@@ -1,5 +1,5 @@
 ---
 title: "Weltman's Liquor"
 url: /washington/weltmans-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

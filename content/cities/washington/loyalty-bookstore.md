@@ -1,5 +1,5 @@
 ---
 title: "Loyalty Bookstore"
 url: /washington/loyalty-bookstore/
-shop: Bücher
+shop: books
 ---

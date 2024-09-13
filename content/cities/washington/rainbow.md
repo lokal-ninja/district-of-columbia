@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /washington/rainbow/
-shop: Kleidung
+shop: clothes
 ---

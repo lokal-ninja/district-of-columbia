@@ -1,5 +1,5 @@
 ---
 title: "Filson"
 url: /washington/filson/
-shop: Kleidung
+shop: clothes
 ---
