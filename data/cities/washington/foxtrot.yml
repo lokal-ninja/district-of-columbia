@@ -4,8 +4,8 @@ latitude: 38.91133
 longitude: -77.04413
 postcode: "20009"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 1601
-phone: "+1-202-506-5101"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://foxtrotco.com/stores/dc/dupont/302"
+street: Connecticut Avenue Northwest
+housenumber: "1601"
+phone: +1-202-506-5101
+opening_hours: Mo-Su 08:00-20:00
+website: https://foxtrotco.com/stores/dc/dupont/302

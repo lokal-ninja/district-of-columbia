@@ -4,8 +4,8 @@ latitude: 38.90185
 longitude: -77.016
 postcode: "20001"
 city: Washington
-street: "4th Street Northwest"
-housenumber: 901
-phone: "+1 202-289-1000"
+street: 4th Street Northwest
+housenumber: "901"
+phone: +1 202-289-1000
 opening_hours: ""
-website: "https://www.modernnailbar.com/"
+website: https://www.modernnailbar.com/

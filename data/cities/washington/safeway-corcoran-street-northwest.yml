@@ -1,11 +1,11 @@
 id: 67080148
-type: way
+type: node
 latitude: 38.91213
 longitude: -77.03923
 postcode: "20009"
 city: Washington
-street: "Corcoran Street Northwest"
-housenumber: 1701
-phone: "+1 202-667-6825"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/dc/washington/1701-corcoran-st-nw.html"
+street: Corcoran Street Northwest
+housenumber: "1701"
+phone: +1 202-667-6825
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/dc/washington/1701-corcoran-st-nw.html

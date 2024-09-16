@@ -4,8 +4,8 @@ latitude: 38.90588
 longitude: -77.06305
 postcode: "20007"
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 1222
+street: Wisconsin Avenue Northwest
+housenumber: "1222"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com"
+opening_hours: 24/7
+website: https://www.wawa.com

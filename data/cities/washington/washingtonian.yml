@@ -1,11 +1,11 @@
 id: 66417655
-type: way
+type: node
 latitude: 38.90044
 longitude: -77.05572
 postcode: ""
 city: Washington
-street: "Virginia Avenue Northwest"
-housenumber: 2643
+street: Virginia Avenue Northwest
+housenumber: "2643"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.90039
 longitude: -76.99701
 postcode: "20002"
 city: Washington
-street: "H Street Northeast"
-housenumber: 600
-phone: "+1 202-396-0704"
-opening_hours: "Tu-Sa 10:00-18:00, Su 12:00-16:00"
-website: "https://thedailyriderdc.com/"
+street: H Street Northeast
+housenumber: "600"
+phone: +1 202-396-0704
+opening_hours: Tu-Sa 10:00-18:00, Su 12:00-16:00
+website: https://thedailyriderdc.com/

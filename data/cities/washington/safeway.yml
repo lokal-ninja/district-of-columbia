@@ -4,8 +4,8 @@ latitude: 38.90359
 longitude: -77.01875
 postcode: "20001"
 city: Washington
-street: "L Street Northwest"
-housenumber: 490
-phone: "+1 202-719-2435"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/dc/washington/490-l-st-nw.html"
+street: L Street Northwest
+housenumber: "490"
+phone: +1 202-719-2435
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/dc/washington/490-l-st-nw.html

@@ -1,11 +1,11 @@
 id: 948322302
-type: way
+type: node
 latitude: 38.90132
 longitude: -76.9782
-postcode: "20002-7230"
+postcode: 20002-7230
 city: Washington, D.C.
-street: "17th Street Northeast"
-housenumber: 901
-phone: "+1 833-471-7014"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/dc/washington/901-17th-street-n-e"
+street: 17th Street Northeast
+housenumber: "901"
+phone: +1 833-471-7014
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/dc/washington/901-17th-street-n-e

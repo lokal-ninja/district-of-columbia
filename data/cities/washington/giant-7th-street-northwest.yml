@@ -4,8 +4,8 @@ latitude: 38.9091
 longitude: -77.02268
 postcode: "20001"
 city: Washington
-street: "7th Street Northwest"
-housenumber: 1400
-phone: "+1 202-238-0180"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/dc/washington/1400-7th-street-nw"
+street: 7th Street Northwest
+housenumber: "1400"
+phone: +1 202-238-0180
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/dc/washington/1400-7th-street-nw

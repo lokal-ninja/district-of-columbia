@@ -4,8 +4,8 @@ latitude: 38.89905
 longitude: -77.05444
 postcode: "20037"
 city: Washington
-street: "Virginia Avenue Northwest"
-housenumber: 2536
-phone: "+1-202-333-0145"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-16:00"
-website: "https://watergatecuts.com"
+street: Virginia Avenue Northwest
+housenumber: "2536"
+phone: +1-202-333-0145
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-16:00
+website: https://watergatecuts.com

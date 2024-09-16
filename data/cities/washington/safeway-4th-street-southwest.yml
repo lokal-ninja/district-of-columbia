@@ -4,8 +4,8 @@ latitude: 38.87742
 longitude: -77.01722
 postcode: "20024"
 city: Washington
-street: "4th Street Southwest"
-housenumber: 1100
-phone: "+1 202-554-9155"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/dc/washington/1100-4th-st-sw.html"
+street: 4th Street Southwest
+housenumber: "1100"
+phone: +1 202-554-9155
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/dc/washington/1100-4th-st-sw.html

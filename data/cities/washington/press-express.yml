@@ -4,8 +4,8 @@ latitude: 38.90321
 longitude: -77.04149
 postcode: "20036"
 city: Washington
-street: "18th Street Northwest"
-housenumber: 1015
-phone: "+1-202-429-5550"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://pressexpressinc.com/"
+street: 18th Street Northwest
+housenumber: "1015"
+phone: +1-202-429-5550
+opening_hours: Mo-Fr 08:30-18:00
+website: https://pressexpressinc.com/

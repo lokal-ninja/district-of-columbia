@@ -1,11 +1,11 @@
 id: 91804088
-type: way
+type: node
 latitude: 38.93482
 longitude: -77.05751
 postcode: "20008"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 3409
+street: Connecticut Avenue Northwest
+housenumber: "3409"
 phone: ""
 opening_hours: ""
 website: ""

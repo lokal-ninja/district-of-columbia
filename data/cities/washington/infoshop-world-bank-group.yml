@@ -4,8 +4,8 @@ latitude: 38.89923
 longitude: -77.04136
 postcode: "20433"
 city: Washington
-street: "Pennsylvania Avenue Northwest"
-housenumber: 1776
-phone: "+1 202-458-4500"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Pennsylvania Avenue Northwest
+housenumber: "1776"
+phone: +1 202-458-4500
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

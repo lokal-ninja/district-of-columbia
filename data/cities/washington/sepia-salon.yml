@@ -4,8 +4,8 @@ latitude: 38.90008
 longitude: -77.00015
 postcode: "20002"
 city: Washington
-street: "H Street Northeast"
-housenumber: 407
-phone: "+1 202-735-5131"
+street: H Street Northeast
+housenumber: "407"
+phone: +1 202-735-5131
 opening_hours: ""
-website: "https://www.sepiasalon.com/"
+website: https://www.sepiasalon.com/

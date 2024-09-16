@@ -4,8 +4,8 @@ latitude: 38.9054
 longitude: -77.00289
 postcode: "20002"
 city: Washington
-street: "M Street Northeast"
-housenumber: 201
-phone: "+1 202-543-2040"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/washington-dc"
+street: M Street Northeast
+housenumber: "201"
+phone: +1 202-543-2040
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.rei.com/stores/washington-dc

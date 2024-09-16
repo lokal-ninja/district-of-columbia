@@ -1,11 +1,11 @@
 id: 129447366
-type: way
+type: node
 latitude: 38.85885
 longitude: -76.96696
 postcode: "20020"
 city: Washington
-street: "Alabama Avenue Southeast"
-housenumber: 2845
-phone: "+1 202-575-7525"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/dc/washington/2845-alabama-ave-se.html"
+street: Alabama Avenue Southeast
+housenumber: "2845"
+phone: +1 202-575-7525
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/dc/washington/2845-alabama-ave-se.html

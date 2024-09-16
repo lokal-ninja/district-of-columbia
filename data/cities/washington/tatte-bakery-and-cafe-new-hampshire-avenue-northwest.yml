@@ -4,8 +4,8 @@ latitude: 38.90542
 longitude: -77.04773
 postcode: "20036"
 city: Washington
-street: "New Hampshire Avenue Northwest"
-housenumber: 1200
-phone: "+1 202-629-1534"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-19:00"
-website: "https://tattebakery.com/washington-dc/"
+street: New Hampshire Avenue Northwest
+housenumber: "1200"
+phone: +1 202-629-1534
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-19:00
+website: https://tattebakery.com/washington-dc/

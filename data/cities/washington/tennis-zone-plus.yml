@@ -1,11 +1,11 @@
 id: 66972884
-type: way
+type: node
 latitude: 38.95274
 longitude: -77.08112
 postcode: ""
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 4839
-phone: "+1 202-362-7575"
+street: Wisconsin Avenue Northwest
+housenumber: "4839"
+phone: +1 202-362-7575
 opening_hours: ""
-website: "https://www.tenniszoneplus.com"
+website: https://www.tenniszoneplus.com

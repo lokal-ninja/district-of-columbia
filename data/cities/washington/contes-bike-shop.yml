@@ -4,8 +4,8 @@ latitude: 38.91098
 longitude: -77.03262
 postcode: "20009"
 city: Washington
-street: "Q Street Northwest"
-housenumber: 1412
-phone: "+1 202-387-2453"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://www.contebikes.com/about/washington-dc-logan-circle-pg407.htm"
+street: Q Street Northwest
+housenumber: "1412"
+phone: +1 202-387-2453
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-17:00; Su 12:00-17:00
+website: https://www.contebikes.com/about/washington-dc-logan-circle-pg407.htm

@@ -4,8 +4,8 @@ latitude: 38.96203
 longitude: -77.02731
 postcode: "20011"
 city: Washington
-street: "Georgia Avenue Northwest"
-housenumber: 5929
-phone: "+1 202-719-3770"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5968/washington-dc/whats-new"
+street: Georgia Avenue Northwest
+housenumber: "5929"
+phone: +1 202-719-3770
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5968/washington-dc/whats-new

@@ -4,8 +4,8 @@ latitude: 38.9053
 longitude: -77.0637
 postcode: "20007"
 city: Washington
-street: "M Street Northwest"
-housenumber: 3225
-phone: "+1 202-618-5605"
-opening_hours: "Mo-Sa 11:00-19:00; Su 04:00-16:00"
+street: M Street Northwest
+housenumber: "3225"
+phone: +1 202-618-5605
+opening_hours: Mo-Sa 11:00-19:00; Su 04:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.88308
 longitude: -77.00083
 postcode: "20003"
 city: Washington
-street: "4th Street Southeast"
-housenumber: 501
+street: 4th Street Southeast
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:30; Su 08:00-20:00"
+opening_hours: Mo-Sa 08:00-21:30; Su 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123815205
-type: way
+type: node
 latitude: 38.91679
 longitude: -77.03392
 postcode: "20009"
 city: Washington
-street: "U Street Northwest"
-housenumber: 1442
+street: U Street Northwest
+housenumber: "1442"
 phone: ""
 opening_hours: ""
 website: ""

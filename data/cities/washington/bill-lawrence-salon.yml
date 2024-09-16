@@ -4,8 +4,8 @@ latitude: 38.91856
 longitude: -77.04188
 postcode: "20009"
 city: Washington
-street: "18th Street Northwest"
-housenumber: 2120
-phone: "+1-202-387-8310"
+street: 18th Street Northwest
+housenumber: "2120"
+phone: +1-202-387-8310
 opening_hours: ""
-website: "http://billlawrencesalon.com/"
+website: http://billlawrencesalon.com/

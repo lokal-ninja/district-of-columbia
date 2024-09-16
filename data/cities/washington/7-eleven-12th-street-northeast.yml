@@ -1,11 +1,11 @@
 id: 297542288
-type: way
+type: node
 latitude: 38.93484
 longitude: -76.99146
 postcode: "20017"
 city: Washington
-street: "12th Street Northeast"
-housenumber: 3700
-phone: "+1 202-526-1043"
+street: 12th Street Northeast
+housenumber: "3700"
+phone: +1 202-526-1043
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/dc/washington/3700-12th-st-ne-37102"
+website: https://www.7-eleven.com/locations/dc/washington/3700-12th-st-ne-37102

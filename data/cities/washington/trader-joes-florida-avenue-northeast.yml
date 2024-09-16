@@ -4,8 +4,8 @@ latitude: 38.90746
 longitude: -77.00059
 postcode: "20002"
 city: Washington
-street: "Florida Avenue Northeast"
-housenumber: 350
-phone: "+1 202-608-1023"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/dc/washington/621/"
+street: Florida Avenue Northeast
+housenumber: "350"
+phone: +1 202-608-1023
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/dc/washington/621/

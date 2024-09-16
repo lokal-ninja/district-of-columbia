@@ -1,11 +1,11 @@
 id: 67079733
-type: way
+type: node
 latitude: 38.9129
 longitude: -77.0382
 postcode: "20009"
 city: Washington
-street: "17th Street Northwest"
-housenumber: 1709
+street: 17th Street Northwest
+housenumber: "1709"
 phone: ""
 opening_hours: ""
 website: ""

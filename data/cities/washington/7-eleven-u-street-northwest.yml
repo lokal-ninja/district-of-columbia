@@ -4,8 +4,8 @@ latitude: 38.91716
 longitude: -77.02789
 postcode: "20009"
 city: Washington
-street: "U Street Northwest"
-housenumber: 1115
-phone: "+1 202-232-3234"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/dc/washington/1115-u-street-nw-33153"
+street: U Street Northwest
+housenumber: "1115"
+phone: +1 202-232-3234
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/dc/washington/1115-u-street-nw-33153

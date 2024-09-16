@@ -1,11 +1,11 @@
 id: 55317438
-type: way
+type: node
 latitude: 38.93393
 longitude: -77.03325
 postcode: "20010"
 city: Washington
-street: "Ogden Street Northwest"
-housenumber: 1402
+street: Ogden Street Northwest
+housenumber: "1402"
 phone: ""
 opening_hours: ""
 website: ""

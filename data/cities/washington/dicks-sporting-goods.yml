@@ -1,11 +1,11 @@
 id: 531149842
-type: way
+type: node
 latitude: 38.92138
 longitude: -76.95388
 postcode: "20018"
 city: Washington
-street: "Market Street Northeast"
-housenumber: 2470
-phone: "+1 202-971-8214"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/dc/washington/1276/"
+street: Market Street Northeast
+housenumber: "2470"
+phone: +1 202-971-8214
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/dc/washington/1276/

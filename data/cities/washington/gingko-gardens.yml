@@ -1,11 +1,11 @@
 id: 55333118
-type: way
+type: node
 latitude: 38.87887
 longitude: -76.99187
 postcode: "20003"
 city: Washington
-street: "11th Street Southeast"
-housenumber: 911
+street: 11th Street Southeast
+housenumber: "911"
 phone: ""
 opening_hours: ""
-website: "https://www.ginkgogardens.com/"
+website: https://www.ginkgogardens.com/

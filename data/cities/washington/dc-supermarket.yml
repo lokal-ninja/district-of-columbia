@@ -4,8 +4,8 @@ latitude: 38.89717
 longitude: -76.99471
 postcode: "20002"
 city: Washington
-street: "8th Street Northeast"
-housenumber: 539
+street: 8th Street Northeast
+housenumber: "539"
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-21:00"
+opening_hours: PH,Mo-Su 08:00-21:00
 website: ""

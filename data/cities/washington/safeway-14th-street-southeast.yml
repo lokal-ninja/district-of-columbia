@@ -4,8 +4,8 @@ latitude: 38.88383
 longitude: -76.98583
 postcode: "20003"
 city: Washington
-street: "14th Street Southeast"
-housenumber: 415
-phone: "+1 202-920-5870"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/dc/washington/415-14th-st-se.html"
+street: 14th Street Southeast
+housenumber: "415"
+phone: +1 202-920-5870
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/dc/washington/415-14th-st-se.html

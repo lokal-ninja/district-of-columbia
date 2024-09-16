@@ -1,11 +1,11 @@
 id: 296263312
-type: way
+type: node
 latitude: 38.92867
 longitude: -76.97767
 postcode: "20018"
 city: Washington
-street: "Rhode Island Avenue Northeast"
-housenumber: 1830
-phone: "+1 202-529-2716"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10004990-1830-rhode-island-avenue-ne/en_US"
+street: Rhode Island Avenue Northeast
+housenumber: "1830"
+phone: +1 202-529-2716
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10004990-1830-rhode-island-avenue-ne/en_US

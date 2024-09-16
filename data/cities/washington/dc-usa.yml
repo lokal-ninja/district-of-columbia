@@ -1,11 +1,11 @@
 id: 68789987
-type: way
+type: node
 latitude: 38.93026
 longitude: -77.03304
 postcode: "20010"
 city: Washington
-street: "14th Street Northwest"
-housenumber: 3100
+street: 14th Street Northwest
+housenumber: "3100"
 phone: ""
 opening_hours: ""
-website: "http://www.shopdcusa.com/"
+website: http://www.shopdcusa.com/

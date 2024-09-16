@@ -4,8 +4,8 @@ latitude: 38.90944
 longitude: -77.03356
 postcode: "20005"
 city: Washington
-street: "P Street Northwest"
-housenumber: 1440
-phone: "+1 202-332-4300"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/pstreet"
+street: P Street Northwest
+housenumber: "1440"
+phone: +1 202-332-4300
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/pstreet

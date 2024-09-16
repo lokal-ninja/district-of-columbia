@@ -1,11 +1,11 @@
 id: 297531806
-type: way
+type: node
 latitude: 38.95569
 longitude: -77.0278
 postcode: "20011"
 city: Washington
-street: "Georgia Avenue Northwest"
-housenumber: 5417
-phone: "+1-202-726-0603"
+street: Georgia Avenue Northwest
+housenumber: "5417"
+phone: +1-202-726-0603
 opening_hours: ""
 website: ""

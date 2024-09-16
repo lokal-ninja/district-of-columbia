@@ -4,8 +4,8 @@ latitude: 38.90709
 longitude: -77.02249
 postcode: "20001"
 city: Washington
-street: "N Street Northwest"
-housenumber: 750
-phone: "+1-202-789-9253"
-opening_hours: "Mo 03:00-19:00; Tu - Fr 12:00-19:00; Sa 08:00-19:00"
-website: "https://cuttin-upbarbershop.com"
+street: N Street Northwest
+housenumber: "750"
+phone: +1-202-789-9253
+opening_hours: Mo 03:00-19:00; Tu - Fr 12:00-19:00; Sa 08:00-19:00
+website: https://cuttin-upbarbershop.com

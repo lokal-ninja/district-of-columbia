@@ -1,11 +1,11 @@
 id: 69754400
-type: way
+type: node
 latitude: 38.92388
 longitude: -77.05103
 postcode: "20008"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 2601
+street: Connecticut Avenue Northwest
+housenumber: "2601"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.cvs.com/store-locator/washington-dc-pharmacies/2601-connecticut-avenue-nw-washington-dc-20008/storeid=1354"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.cvs.com/store-locator/washington-dc-pharmacies/2601-connecticut-avenue-nw-washington-dc-20008/storeid=1354

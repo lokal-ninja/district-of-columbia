@@ -1,11 +1,11 @@
 id: 66974130
-type: way
+type: node
 latitude: 38.96457
 longitude: -77.07561
 postcode: "20015"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 5544
+street: Connecticut Avenue Northwest
+housenumber: "5544"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:55"
-website: "Www.chevychasewine.com"
+opening_hours: Mo-Sa 10:00-22:55
+website: Www.chevychasewine.com

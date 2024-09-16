@@ -4,8 +4,8 @@ latitude: 38.93277
 longitude: -77.03304
 postcode: "20010"
 city: Washington
-street: "14th Street Northwest"
-housenumber: 3458
+street: 14th Street Northwest
+housenumber: "3458"
 phone: ""
-opening_hours: "Mo-Fr 7:30-17:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 7:30-17:00; Sa 09:00-17:00; Su off
 website: ""

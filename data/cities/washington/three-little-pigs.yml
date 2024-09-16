@@ -4,8 +4,8 @@ latitude: 38.95238
 longitude: -77.02726
 postcode: "20011"
 city: Washington
-street: "Georgia Avenue Northwest"
-housenumber: 5111
-phone: "+1-202-726-0102"
-opening_hours: "Mo off; Tu off; We-Fr 11:00-20:00; Sa 09:00-19:00; Su 09:00-16:00"
+street: Georgia Avenue Northwest
+housenumber: "5111"
+phone: +1-202-726-0102
+opening_hours: Mo off; Tu off; We-Fr 11:00-20:00; Sa 09:00-19:00; Su 09:00-16:00
 website: ""

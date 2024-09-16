@@ -4,8 +4,8 @@ latitude: 38.90581
 longitude: -77.02415
 postcode: "20001"
 city: Washington
-street: "9th Street Northwest"
-housenumber: 1200
-phone: "+1 202-289-1414"
-opening_hours: "Mo-Sa 11:00-22:00; Su off"
-website: "http://modernliquors.com"
+street: 9th Street Northwest
+housenumber: "1200"
+phone: +1 202-289-1414
+opening_hours: Mo-Sa 11:00-22:00; Su off
+website: http://modernliquors.com

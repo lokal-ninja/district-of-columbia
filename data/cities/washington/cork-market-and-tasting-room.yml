@@ -4,8 +4,8 @@ latitude: 38.91435
 longitude: -77.03173
 postcode: "20009"
 city: Washington
-street: "14th Street Northwest"
-housenumber: 1805
-phone: "+1 202-265-2674"
+street: 14th Street Northwest
+housenumber: "1805"
+phone: +1 202-265-2674
 opening_hours: ""
-website: "https://www.corkdc.com/"
+website: https://www.corkdc.com/

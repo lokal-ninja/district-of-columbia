@@ -4,8 +4,8 @@ latitude: 38.87409
 longitude: -77.00073
 postcode: "20003"
 city: Washington
-street: "4th Street Southeast"
-housenumber: 1331
-phone: "+1 202-558-9866"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.contebikes.com/about/washington-dc-navy-yard-pg242.htm"
+street: 4th Street Southeast
+housenumber: "1331"
+phone: +1 202-558-9866
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.contebikes.com/about/washington-dc-navy-yard-pg242.htm

@@ -1,11 +1,11 @@
 id: 91898792
-type: way
+type: node
 latitude: 38.9698
 longitude: -77.02707
 postcode: "20012"
 city: Washington
-street: "Piney Branch Road Northwest"
-housenumber: 6500
-phone: "+1 202-723-5644"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/dc/washington/6500-piney-branch-rd-nw.html"
+street: Piney Branch Road Northwest
+housenumber: "6500"
+phone: +1 202-723-5644
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/dc/washington/6500-piney-branch-rd-nw.html

@@ -4,8 +4,8 @@ latitude: 38.90768
 longitude: -77.04259
 postcode: "20036"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 1300
-phone: "+1 202-721-0246"
-opening_hours: "Mo-Su 10:00-18:00"
+street: Connecticut Avenue Northwest
+housenumber: "1300"
+phone: +1 202-721-0246
+opening_hours: Mo-Su 10:00-18:00
 website: ""

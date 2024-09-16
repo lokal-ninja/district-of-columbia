@@ -4,8 +4,8 @@ latitude: 38.95978
 longitude: -77.08496
 postcode: "20015"
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 5333
+street: Wisconsin Avenue Northwest
+housenumber: "5333"
 phone: ""
 opening_hours: ""
-website: "https://www.marshalls.com/us/store/index.jsp"
+website: https://www.marshalls.com/us/store/index.jsp

@@ -4,8 +4,8 @@ latitude: 38.90039
 longitude: -76.99813
 postcode: "20002"
 city: Washington
-street: "H Street Northeast"
-housenumber: 600
-phone: "+1 202-469-7410"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.wholefoodsmarket.com/stores/hstreet"
+street: H Street Northeast
+housenumber: "600"
+phone: +1 202-469-7410
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.wholefoodsmarket.com/stores/hstreet

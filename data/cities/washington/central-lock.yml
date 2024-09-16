@@ -4,8 +4,8 @@ latitude: 38.90479
 longitude: -77.02177
 postcode: ""
 city: Washington
-street: "7th Street Northwest"
-housenumber: 1107
-phone: "+1 202-842-0414"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa-Su off"
-website: "https://centralsafeandlock.com/"
+street: 7th Street Northwest
+housenumber: "1107"
+phone: +1 202-842-0414
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa-Su off
+website: https://centralsafeandlock.com/

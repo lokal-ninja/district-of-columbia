@@ -1,11 +1,11 @@
 id: 297531771
-type: way
+type: node
 latitude: 38.95534
 longitude: -77.02755
 postcode: "20011"
 city: Washington
-street: "Georgia Avenue Northwest"
-housenumber: 5401
+street: Georgia Avenue Northwest
+housenumber: "5401"
 phone: ""
 opening_hours: ""
 website: ""

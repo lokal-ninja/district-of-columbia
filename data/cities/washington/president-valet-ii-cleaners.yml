@@ -1,11 +1,11 @@
 id: 66972911
-type: way
+type: node
 latitude: 38.95266
 longitude: -77.08136
 postcode: ""
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 4837
+street: Wisconsin Avenue Northwest
+housenumber: "4837"
 phone: ""
 opening_hours: ""
 website: ""

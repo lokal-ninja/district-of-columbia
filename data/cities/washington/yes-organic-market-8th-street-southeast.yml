@@ -1,11 +1,11 @@
 id: 55333103
-type: way
+type: node
 latitude: 38.88343
 longitude: -76.99479
 postcode: "20003"
 city: Washington
-street: "8th Street Southeast"
-housenumber: 410
+street: 8th Street Southeast
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

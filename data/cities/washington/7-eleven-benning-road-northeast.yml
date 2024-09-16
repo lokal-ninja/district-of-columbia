@@ -1,11 +1,11 @@
 id: 296075297
-type: way
+type: node
 latitude: 38.89068
 longitude: -76.93885
 postcode: "20019"
 city: Washington
-street: "Benning Road Northeast"
-housenumber: 4443
-phone: "+1 202-396-0409"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/dc/washington/4443-benning-rd-22639"
+street: Benning Road Northeast
+housenumber: "4443"
+phone: +1 202-396-0409
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/dc/washington/4443-benning-rd-22639

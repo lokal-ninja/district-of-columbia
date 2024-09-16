@@ -4,8 +4,8 @@ latitude: 38.90703
 longitude: -76.99841
 postcode: "20002"
 city: Washington
-street: "Morse Street Northeast"
-housenumber: 517
+street: Morse Street Northeast
+housenumber: "517"
 phone: "2025440183"
-opening_hours: "Tu-Sa 9:00-6:00, Su-Mo 11:00-6:00"
+opening_hours: Tu-Sa 9:00-6:00, Su-Mo 11:00-6:00
 website: ""

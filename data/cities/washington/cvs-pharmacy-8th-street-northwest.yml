@@ -4,8 +4,8 @@ latitude: 38.917
 longitude: -77.02278
 postcode: "20001"
 city: Washington
-street: "8th Street Northwest"
-housenumber: 2009
+street: 8th Street Northwest
+housenumber: "2009"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/washington-dc-pharmacies/2009-eight-street-nw-washington-dc-20001/storeid=1355"
+website: https://www.cvs.com/store-locator/washington-dc-pharmacies/2009-eight-street-nw-washington-dc-20001/storeid=1355

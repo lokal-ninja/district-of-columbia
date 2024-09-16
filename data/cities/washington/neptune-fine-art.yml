@@ -4,8 +4,8 @@ latitude: 38.91075
 longitude: -77.03218
 postcode: ""
 city: Washington
-street: "14th Street Northwest"
-housenumber: 1530
-phone: "+1 202-986-1200"
-opening_hours: "We-Sa 12:00-19:00"
-website: "http://www.neptunefineart.com/"
+street: 14th Street Northwest
+housenumber: "1530"
+phone: +1 202-986-1200
+opening_hours: We-Sa 12:00-19:00
+website: http://www.neptunefineart.com/

@@ -4,8 +4,8 @@ latitude: 38.91334
 longitude: -77.04521
 postcode: "20009"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 1723
-phone: "+1-202-299-0440"
-opening_hours: "Su 11:00-20:00; Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00"
-website: "http://www.bitethefruit.com"
+street: Connecticut Avenue Northwest
+housenumber: "1723"
+phone: +1-202-299-0440
+opening_hours: Su 11:00-20:00; Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00
+website: http://www.bitethefruit.com

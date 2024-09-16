@@ -4,8 +4,8 @@ latitude: 38.92485
 longitude: -77.05197
 postcode: "20008"
 city: Washington
-street: "Connecticut Avenue Northwest"
-housenumber: 2645
-phone: "+1-202-332-3334"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://allanwoods.com/"
+street: Connecticut Avenue Northwest
+housenumber: "2645"
+phone: +1-202-332-3334
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://allanwoods.com/

@@ -4,8 +4,8 @@ latitude: 38.90035
 longitude: -76.9869
 postcode: "20002"
 city: Washington
-street: "H Street Northeast"
-housenumber: 1340
-phone: "+1202-398-4880"
+street: H Street Northeast
+housenumber: "1340"
+phone: +1202-398-4880
 opening_hours: ""
-website: "https://dazzles-washington.edan.io/"
+website: https://dazzles-washington.edan.io/

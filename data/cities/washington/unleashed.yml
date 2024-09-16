@@ -4,8 +4,8 @@ latitude: 38.91006
 longitude: -77.02213
 postcode: "20001"
 city: Washington
-street: "7th Street Northwest"
-housenumber: 1550
-phone: "+1 202-238-9010"
-opening_hours: "10:00-19:00"
-website: "https://stores.petco.com/dc/washington/pet-supplies-washington-dc-5826.html"
+street: 7th Street Northwest
+housenumber: "1550"
+phone: +1 202-238-9010
+opening_hours: 10:00-19:00
+website: https://stores.petco.com/dc/washington/pet-supplies-washington-dc-5826.html

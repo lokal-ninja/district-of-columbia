@@ -4,8 +4,8 @@ latitude: 38.90537
 longitude: -77.05931
 postcode: "20007"
 city: Washington
-street: "M Street Northwest"
-housenumber: 3001
-phone: "+1 202-808-2070"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://mykita.com/en/shops/washington"
+street: M Street Northwest
+housenumber: "3001"
+phone: +1 202-808-2070
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://mykita.com/en/shops/washington

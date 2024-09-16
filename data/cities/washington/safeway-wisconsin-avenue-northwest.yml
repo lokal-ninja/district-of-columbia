@@ -1,11 +1,11 @@
 id: 66692119
-type: way
+type: node
 latitude: 38.91637
 longitude: -77.06668
 postcode: "20007"
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 1855
-phone: "+1 202-333-3223"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/dc/washington/1855-wisconsin-ave-nw.html"
+street: Wisconsin Avenue Northwest
+housenumber: "1855"
+phone: +1 202-333-3223
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/dc/washington/1855-wisconsin-ave-nw.html

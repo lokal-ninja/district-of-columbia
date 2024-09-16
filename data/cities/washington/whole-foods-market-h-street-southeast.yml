@@ -4,8 +4,8 @@ latitude: 38.88036
 longitude: -77.00511
 postcode: "20003"
 city: Washington
-street: "H Street Southeast"
-housenumber: 101
-phone: "+1 202-469-7280"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/southcapitolhill"
+street: H Street Southeast
+housenumber: "101"
+phone: +1 202-469-7280
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/southcapitolhill

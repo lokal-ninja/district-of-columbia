@@ -1,11 +1,11 @@
 id: 66692464
-type: way
+type: node
 latitude: 38.90544
 longitude: -77.06065
 postcode: ""
 city: Washington
-street: "M Street Northwest"
-housenumber: 3061
+street: M Street Northwest
+housenumber: "3061"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 105560499
-type: way
+type: node
 latitude: 38.91994
 longitude: -77.07181
 postcode: "20007"
 city: Washington
-street: "Wisconsin Avenue Northwest"
-housenumber: 2226
-phone: "+1 202-944-8671"
-opening_hours: "Su-Sa 07:00-24:00"
-website: "https://www.cvs.com/store-locator/washington-dc-pharmacies/2226-wisconsin-avenue-nw-washington-dc-20007/storeid=2378"
+street: Wisconsin Avenue Northwest
+housenumber: "2226"
+phone: +1 202-944-8671
+opening_hours: Su-Sa 07:00-24:00
+website: https://www.cvs.com/store-locator/washington-dc-pharmacies/2226-wisconsin-avenue-nw-washington-dc-20007/storeid=2378

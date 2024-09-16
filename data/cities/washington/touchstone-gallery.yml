@@ -4,8 +4,8 @@ latitude: 38.90204
 longitude: -77.02498
 postcode: ""
 city: Washington
-street: "New York Avenue Northwest"
-housenumber: 901
-phone: "+1 202-682-4125"
-opening_hours: "We-Su 12:00-17:00"
-website: "https://www.touchstonegallery.com/"
+street: New York Avenue Northwest
+housenumber: "901"
+phone: +1 202-682-4125
+opening_hours: We-Su 12:00-17:00
+website: https://www.touchstonegallery.com/

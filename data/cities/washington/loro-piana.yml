@@ -4,8 +4,8 @@ latitude: 38.89998
 longitude: -77.02538
 postcode: "20001"
 city: Washington
-street: "H Street Northwest"
-housenumber: 949
-phone: "+1 202-682-4500"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: H Street Northwest
+housenumber: "949"
+phone: +1 202-682-4500
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

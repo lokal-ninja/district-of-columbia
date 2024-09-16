@@ -4,8 +4,8 @@ latitude: 38.90749
 longitude: -77.06881
 postcode: "20007"
 city: Washington
-street: "35th Street Northwest"
-housenumber: 1329
+street: 35th Street Northwest
+housenumber: "1329"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
+opening_hours: Mo-Su 09:00-17:00
 website: ""

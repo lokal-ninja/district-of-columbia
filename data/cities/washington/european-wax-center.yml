@@ -4,8 +4,8 @@ latitude: 38.88363
 longitude: -76.99542
 postcode: "20003"
 city: Washington
-street: "D Street Southeast"
-housenumber: 717
-phone: "+1-202-807-1750"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://locations.waxcenter.com/dc/washington/washington-dc-eastern-market-0709.html"
+street: D Street Southeast
+housenumber: "717"
+phone: +1-202-807-1750
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://locations.waxcenter.com/dc/washington/washington-dc-eastern-market-0709.html

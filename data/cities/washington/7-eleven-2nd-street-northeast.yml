@@ -4,8 +4,8 @@ latitude: 38.90776
 longitude: -77.00331
 postcode: "20002"
 city: Washington
-street: "2nd Street Northeast"
-housenumber: 1315
-phone: "+1 202-216-9251"
+street: 2nd Street Northeast
+housenumber: "1315"
+phone: +1 202-216-9251
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/dc/washington/1315-2nd-st-ne-34559"
+website: https://www.7-eleven.com/locations/dc/washington/1315-2nd-st-ne-34559

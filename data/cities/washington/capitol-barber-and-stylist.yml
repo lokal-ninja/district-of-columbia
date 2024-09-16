@@ -4,8 +4,8 @@ latitude: 38.89464
 longitude: -77.00319
 postcode: "20002"
 city: Washington
-street: "Massachusetts Avenue Northeast"
-housenumber: 201
-phone: "+1-202-544-8380"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://dccapitolbarberstylist.com"
+street: Massachusetts Avenue Northeast
+housenumber: "201"
+phone: +1-202-544-8380
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://dccapitolbarberstylist.com

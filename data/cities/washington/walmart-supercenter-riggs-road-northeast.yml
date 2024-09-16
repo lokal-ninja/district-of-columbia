@@ -4,8 +4,8 @@ latitude: 38.95782
 longitude: -77.0022
 postcode: "20011"
 city: Washington
-street: "Riggs Road Northeast"
-housenumber: 310
-phone: "+1 202-756-4418"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3035-washington-dc"
+street: Riggs Road Northeast
+housenumber: "310"
+phone: +1 202-756-4418
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3035-washington-dc
