@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /washington-dc/mattress-firm/
+url: /washington/mattress-firm/
 shop: bed
 ---
