@@ -7,5 +7,5 @@ city: Washington
 street: 8th Street Northeast
 housenumber: "3405"
 phone: +1 202-529-2658
-opening_hours: Mo-Sa 08:00-20:00
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: https://www.acehardware.com/store-details/16260
