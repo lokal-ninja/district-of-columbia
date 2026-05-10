@@ -1,5 +1,5 @@
 ---
 title: "Aura Spa"
-url: /washington-dc/aura-spa/
+url: /washington/aura-spa/
 shop: beauty
 ---
